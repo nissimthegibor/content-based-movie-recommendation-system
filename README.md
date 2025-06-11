@@ -20,7 +20,6 @@ This is a **content-based recommendation engine** for movies, trained on a custo
 ### 🎲 Metadata Encoding
 - Genres → one-hot encoded
 - Numeric values (runtime, year, rating) → normalized
-- Feature-engineered boolean flags (e.g., decade, long vs short)
 
 ### 📝 Text Embedding (Synopsis)
 - **TF-IDF Vectorizer**:
